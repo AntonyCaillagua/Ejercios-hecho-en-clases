@@ -1,0 +1,5 @@
+print("calcula area")
+num1=int(input("Ingresa la basa :"))
+num2=int(input("Ingresa la altura:"))
+area=((num1*num2)/2)
+print("el area de :",num1,"por",num2,"dividido para 2 es ",area)
